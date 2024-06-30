@@ -1,0 +1,49 @@
+body {
+    background-color: beige;
+}
+
+h1 {
+    text-align: center;
+    color: saddlebrown;
+}
+
+h2 {
+    text-align: center;
+    color: saddlebrown;
+}
+
+img {
+    display: flex;
+    margin: auto;
+}
+
+p {
+    text-align: center;
+}
+
+p.image_sub {
+    text-align: center;
+    text-justify: distribute;
+    font-style: italic;
+    color: saddlebrown;
+    font-size: 12px;
+}
+p.list-title {
+    text-align: center;
+    color: saddlebrown;
+    font-size: 24px;
+    line-height: normal;
+}
+
+ul,
+ol {
+    justify-content: center;
+    display: inline;
+}
+
+li {
+    line-height: 3;
+    text-align: center;
+    display: compact;
+    background-color: #f5ecdc;
+}

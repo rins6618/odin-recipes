@@ -1,0 +1,33 @@
+body {
+    background-color: beige;
+}
+
+h1 {
+    font-family: Garamond, Georgia, serif;
+    text-align: center;
+}
+
+h3 {
+    font-family: Garamond, Georgia, serif;
+    text-align: center;
+}
+
+ul {
+    align-content: center;
+    justify-content: center;
+    margin: auto;
+    display: inline;
+    width: 30%;
+    list-style-type: none;
+    text-align: center;
+    line-height: 3;
+}
+
+a {
+    text-decoration: none;
+    color:sandybrown;
+}
+
+a:visited {
+    color: saddlebrown;
+}
